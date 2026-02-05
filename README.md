@@ -1,7 +1,39 @@
-- Hi, I’m @juliazam
-- I've got my certificate at HarvardX PH125.9x Data Science course (issued April 21, 2021).
+# Hi, I'm Yulia
 
-<!---
-juliazam/juliazam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Data Engineer | Python, SQL, AWS, Databricks
+
+I build scalable data pipelines and analytics solutions, with focus on ETL/ELT processes, cloud-based data platforms, and data quality.
+
+### 🛠 Tech Stack
+
+**Languages & Frameworks:**
+- Python (Pandas, PySpark)
+- SQL (PostgreSQL, advanced queries)
+
+**Cloud & Big Data:**
+- AWS (S3, Redshift, Glue, Lambda)
+- Databricks, Apache Spark
+
+**Data Engineering:**
+- ETL/ELT pipelines
+- Data modeling (star schema, normalization)
+- Data quality & validation
+
+**Tools:**
+- Git, Docker
+- Apache Airflow (learning)
+- Jupyter Notebooks
+
+### 📂 Featured Projects
+
+- [**NYC Airbnb Data Pipeline**](https://github.com/juliazam/nyc-airbnb-data-pipeline) — Batch ETL pipeline with validation, transformation, and aggregation using Python, Pandas, SQLAlchemy
+
+### 🎓 Certifications
+
+- HarvardX PH125.9x Data Science Capstone (April 2021)
+- AWS Certified Data Analytics (in progress)
+
+### 📫 Connect
+
+- LinkedIn: [linkedin.com/in/yulia-z](https://linkedin.com/in/yulia-z)
+- Location: Singapore
