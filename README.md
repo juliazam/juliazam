@@ -28,6 +28,7 @@ I build scalable data pipelines and analytics solutions, with focus on ETL/ELT p
 
 - [**NYC Airbnb Data Pipeline**](https://github.com/juliazam/nyc-airbnb-data-pipeline) — Batch ETL pipeline with validation, transformation, and aggregation using Python, Pandas, SQLAlchemy
 - [**DataGuarg_SG**](https://github.com/juliazam/dataguard-sg) — Production-ready data quality pipeline for fintech, featuring automated Pydantic validation, Great Expectations checks, and full data lineage tracking.
+- [**Aura Ledger Analytics**](https://github.com/juliazam/aura-ledger-analytics) - A production-ready ETL data pipeline built on Apache Airflow 3.x.
 
 ### 🎓 Certifications
 
